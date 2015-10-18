@@ -1,0 +1,3 @@
+location /vendor/ {
+	proxy_pass http://injestix-staging:9000/;
+}

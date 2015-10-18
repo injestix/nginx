@@ -1,2 +1,2 @@
 # nginx
-HTTP Proxy
+NGINX proxy server
